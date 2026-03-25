@@ -1,0 +1,9 @@
+{
+  "name": "acgc-premium-ai-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ACGC premium manpower website with Megh Balika AI assistant",
+  "engines": {
+    "node": ">=18"
+  }
+}
